@@ -7,5 +7,6 @@ public class UserRun {
 		UserService service = new UserService();
 		service.method1();
 		// UserService 객체에 있는 method1() 호출
+		// 주석 추가
 	}
 }
