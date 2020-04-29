@@ -87,6 +87,7 @@ public class TryCatchService {
 					
 				}
 				
+				
 			} catch (InputMismatchException e) {
 				System.out.println("정수만 입력해주세요.");
 				sc.nextLine();

@@ -11,7 +11,7 @@ public class DArrayRun {
 //		da.example3();
 //		da.example4();
 //		da.example5();
-//		da.example6_ex();
+		da.example6_ex();
 //		da.example7();
 		
 	}
